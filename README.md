@@ -1,4 +1,4 @@
-# 🤖 [AI Agentic Design Patterns with AutoGen](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai)
+# 🤖 [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai)
 
 💡 Welcome to the "Multi AI Agent Systems with crewAI" course! The course will equip you with the knowledge and skills to build and customize multi-agent systems using crewAI framework.
 
